@@ -4,7 +4,7 @@ part 'authorization_options.g.dart';
 
 @JsonSerializable(explicitToJson: true)
 class AuthorizationOptions {
-  // TODO: implement AuthorizationOptions for iOS
+  
 
   AuthorizationOptions();
 
